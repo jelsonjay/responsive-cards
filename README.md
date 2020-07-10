@@ -1,2 +1,2 @@
 # Responsive-cards
-### mini project responsive cards html5 and css3
+mini project responsive cards html5 and css3
